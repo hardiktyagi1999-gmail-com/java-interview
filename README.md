@@ -10,4 +10,4 @@ This project intends to demonstrate a way to remove duplicates from a list of cu
 
 #### Problem-002 Implementing a class hierarchy using Java's inheritance
 
-This project intends to demonstrate Java's inheritance and encapsulation by implementing a basic class hierarchy.
+This project intends to demonstrate Java's inheritance and polymorphism by implementing a basic class hierarchy.

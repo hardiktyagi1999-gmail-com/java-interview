@@ -23,5 +23,5 @@ This problem expects an implementation using Java's inheritance and encapsulatio
 ### Expectations
 
 1. All Shapes Rectangle, Square and Circle needs to have common methods area and perimeter. This can be solved using Java inheritance concept.
-2. The `computeProperties` method in App.java needs to take any Shape that is possible. This can be solved using Java encapsultaion's concept.
+2. The `computeProperties` method in App.java needs to take any Shape that is possible. This can be solved using Java polymorphism concept.
 3. We expect unit tests to thoroughly test both the area and perimeter functions of all the Shapes.
